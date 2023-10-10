@@ -15,26 +15,30 @@
     <link href="https://fonts.googleapis.com/css2?family=Mitr&amp;family=Pridi&amp;display=swap"
 
       rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="file:///D:/640510028/source-04-Basic-Layout/my%20resu/css/style.css">
   </head>
   <body>
     <div calss="row">
       <div class="container">
         <div class="container">
-          <div class="row">
+          <div class="row colborder">
             <div class="col"><img src="images/IMG_20231009_222154.jpg" alt="ภคพงศ์ แซ่ฮ้อ"
 
-                title="Pakapong Saehor" class="rounded-3 imgborder border-black img-fluid"></div>
-            <div class="col">
+                title="Pakapong Saehor" class="rounded-3 border-white img-fluid"></div>
+            <div class="col colborder">
               <div class="container">
                 <p class="text-md-left h2"> Name/ชื่อ : Pakapong Saehor/ภคพงศ์
                   แซ่ฮ้อ</p>
                 <p class="text-md-left h6"><br>
                 </p>
                 <p class="text-md-left h5">Born/เกิด : 17 March/มีนาคม 2003</p>
+                <p class="text-md-left h5"><br>
+                </p>
+                <p class="text-md-left h5">รหัส: 640510028</p>
                 <p class="text-md-left h6"><br>
                 </p>
-                <p class="text-md-center h5">มีความสนใจในการการทำงาน
-                  ด้านข้อมูล และ Graphic Design</p>
+                <p class="text-md-center h5">มีความสนใจในการการทำงาน ด้านข้อมูล
+                  และ Graphic Design</p>
                 <p class="text-md-left h2"><br>
                 </p>
                 <p class="text-md-left"><br>
@@ -45,7 +49,7 @@
         </div>
         <div class="container text-center colborder">
           <div class="row">
-            <div class="col">
+            <div class="col colborder">
               <p class="text-md-center h2"> Skill/ความสามารถ</p>
               <p class="text-md-left h5">Photoshop : 2/5</p>
               <p class="text-md-left h5">Illustrator : 4/5</p>
@@ -55,7 +59,7 @@
               <p class="text-md-left h5">Excel : 2/5</p>
               <p class="text-md-left h5">Fl Studio : 4/5</p>
             </div>
-            <div class="col">
+            <div class="col colborder">
               <p class="text-md-center h2"> ประวัติการศึกษา</p>
               <p class="text-md-left h5">ประถม : โรงเรียนศิรินุสรณ์วิทยา</p>
               <p><br>
